@@ -33,7 +33,7 @@ require_once($CFG->dirroot. '/course/intranet/lib.php');
  * @copyright  2012 Marina Glancy
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-class format_Intranet extends format_base {
+class format_intranet extends format_base {
 
     /**
      * Returns true if this course format uses sections
