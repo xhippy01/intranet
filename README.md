@@ -1,2 +1,2 @@
 # intranet
-Just playing some moodle course format ideas!
+Just playing with some moodle course format ideas!
